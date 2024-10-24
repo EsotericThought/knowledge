@@ -1,0 +1,29 @@
+{
+  "name": "primitive-notions",
+  "version": "0.0.1",
+  "description": "The set of primitive notions used in the esoteric thought system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsotericThought/primitive-notions.git"
+  },
+  "keywords": [
+    "esoteric",
+    "thought",
+    "primitive",
+    "notions",
+    "idea",
+    "think",
+    "concept",
+    "math"
+  ],
+  "author": "Esoteric Enderman",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/EsotericThought/primitive-notions/issues"
+  },
+  "homepage": "https://github.com/EsotericThought/primitive-notions#readme"
+}
