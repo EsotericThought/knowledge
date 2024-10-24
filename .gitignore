@@ -3,3 +3,6 @@
 
 # Files for releases
 .releases
+
+# Non-important information about the project, dependencies, and package.json
+package-lock.json
