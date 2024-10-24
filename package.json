@@ -1,7 +1,7 @@
 {
-  "name": "primitive-notions",
+  "name": "primitive-notions-scripts",
   "version": "0.0.1",
-  "description": "The set of primitive notions used in the esoteric thought system.",
+  "description": "The scripts for the Esoteric Thought Primitive Notions project.",
   "scripts": {
     "buildPlugins": "bash ./build.zsh"
   },
