@@ -1,2 +1,5 @@
 # The state of the current workspace, which is specific to the user.
 .obsidian/workspace.json
+
+# Files for releases
+.releases

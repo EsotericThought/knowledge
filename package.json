@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "The scripts for the Esoteric Thought Primitive Notions project.",
   "scripts": {
-    "buildPlugins": "bash ./.scripts/build-plugins.zsh"
+    "buildPlugins": "bash ./.scripts/build-plugins.zsh",
+    "createRelease": "powershell ./.scripts/create-release.ps1"
   },
   "repository": {
     "type": "git",
